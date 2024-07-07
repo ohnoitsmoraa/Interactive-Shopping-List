@@ -59,7 +59,9 @@ To run the application, follow the following steps:
 
 ## Live Link
 
-You can also click on this link to view the live website:
+You can also click on this link to view the deployed live website:
+
+    https://ohnoitsmoraa.github.io/Interactive-Shopping-List/
 
 ### _Authors_
 
